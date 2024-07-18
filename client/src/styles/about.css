@@ -1,0 +1,22 @@
+.img-div img {
+    height: 400px;
+    max-width: 80%;
+    padding-top: 40px;
+    border-radius: 10px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 5%;
+}
+
+.img-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    border-color: grey;
+    background-color: beige;
+    border: solid 1px grey;
+    border-radius: 10px;
+}
