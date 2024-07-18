@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+client/src/images/WhatsApp Image 2024-04-29 at 13.29.51 (1).jpeg
 /node_modules
 /.pnp
 .pnp.js
